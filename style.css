@@ -1,0 +1,62 @@
+/* 
+   滚动到顶部组件样式
+*/
+.box{
+  width:890px;
+  height: 5000px;
+  background-color: yellow;
+  margin:0 auto;
+}
+#scrollTopbtn{
+  display:none;
+  width:40px;
+  height:40px;
+  position:fixed;
+  left:90%;
+  color:red;
+  bottom:50px;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin: auto;
+  padding: 0;
+  border-radius: 200px;
+  background: rgba(255,255,255,.8);
+  border: 1px solid rgba(226,223,220,.5);
+  box-shadow: 0 0 2px rgba(0,0,0,.1);
+  line-height: 32px;
+  text-align: center;
+}
+
+#scrollTopbtn{
+  display:none;
+  width:40px;
+  height:40px;
+  position:fixed;
+  left:90%;
+  color:red;
+  bottom:50px;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin: auto;
+    padding: 0;
+    border-radius: 200px;
+    background: rgba(255,255,255,.8);
+    border: 1px solid rgba(226,223,220,.5);
+    box-shadow: 0 0 2px rgba(0,0,0,.1);
+    line-height: 32px;
+    text-align: center;
+}
