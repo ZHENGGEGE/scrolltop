@@ -60,3 +60,10 @@
     line-height: 32px;
     text-align: center;
 }
+.c-back-to-top__icon{
+  fill: #3471a2;
+  width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    transition: fill 100ms;
+}
