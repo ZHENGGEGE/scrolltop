@@ -1,2 +1,2 @@
 # ScrollToTop
-javascript网页滚动回到顶部效果
+滚动到顶部
